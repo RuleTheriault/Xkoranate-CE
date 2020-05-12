@@ -1,4 +1,5 @@
 # xkoranate-CE
+This README is a work in progress and should not be considered final.
 ## Overview
 
 xkoranate-CE (xkoranate, **C**ommunity **E**dition) is a fork of ThirdGeek/Commerce Heights' **xkoranate** program, used for generating scores for sporting events held in NS Sports, the sports roleplay forum for the nation simulation game, NationStates.
