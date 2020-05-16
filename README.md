@@ -9,13 +9,16 @@ xkoranate-CE (xkoranate, **C**ommunity **E**dition) is a fork of ThirdGeek/Comme
 "xkoranate is a program that can be used to simulate results of a wide variety of individual and team sports, including Olympic sports. It is capable of scorinating events in one hundred disciplines of over sixty sports."
 
 ## Compiling/Installation
-**Linux**
+### Linux
 
 **You will need:**
 * A C++ compiler, such as `gcc`.
-* The `make` utility.
-* Qt 5 development tools from your distribution (e.g., `qt5-default` in Ubuntu, or `qt5` in Arch Linux).
-*Note: Some distributions have a metapackage or group of packages, such as Ubuntu's `build-essential` or Arch Linux's `base-devel`, that include basic development tools. If you have such a package installed, `gcc` and `make` should already be present.*
+
+### Windows
+Coming soon!
+
+### macOS
+Coming soon!
 
 ## Sport files
 
