@@ -1,3 +1,6 @@
+# NOTE
+This branch is no longer actively updated. Contributions should be sourced via pull request from NS-Sports/xkoranate-CE instead.
+
 # xkoranate-CE
 This README is a work in progress and should not be considered final.
 ## Overview
