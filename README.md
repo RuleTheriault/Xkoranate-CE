@@ -21,7 +21,7 @@ NOTE: These instructions are copied from my posts on the NationStates forums.
 * Your target xkoranate build from the Releases section.
 
 **Getting to it**
-1. Open your favourite terminal and change directories into the source tree (known as $DIR in this procedure:
+1. Open your favourite terminal and change directories into the source tree (known as $DIR in this procedure):
 ```cd $DIR/xkoranate/src```
 2. Run `qmake` to generate the Makefile necessary to compile the xkoranate binary with:
 ```qmake-qt4```
@@ -30,7 +30,7 @@ NOTE: These instructions are copied from my posts on the NationStates forums.
 4. Leave the `src` directory from which you compiled:
 ```cd ..```
 5. Run xkoranate by making it executable and running it:
-```chmod +x xkoranate```
+```chmod +x xkoranate```, then run
 ```./xkoranate```
 
 Once xkoranate is running, you have successfully compiled and executed the latest version.
