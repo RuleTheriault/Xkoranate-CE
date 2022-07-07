@@ -5,15 +5,16 @@ TEMPLATE = app
 TARGET = xkoranate
 
 # mac: TARGET = xkoranate.app
-mac:CONFIG += ppc x86
+# mac:CONFIG += ppc x86
 #mac:CONFIG = x86_64
-mac:ICON = icons/xkoranate.icns
+# mac:ICON = icons/xkoranate.icns
 CONFIG += warn_on
 DEPENDPATH += .
 INCLUDEPATH += .
 RESOURCES += icons.qrc
 RC_FILE += xkoranate.rc
 DESTDIR = ../
+QT += widgets
 QT += xml
 
 # Input
